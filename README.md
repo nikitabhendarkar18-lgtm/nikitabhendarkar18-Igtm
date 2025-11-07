@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### 🧠 About Me 
 - 🔭 Currently working at **BeatsVibe Technologies**
 - 🌱 Learning and improving my skills in **modern web and mobile development**
 - 💬 Open to collaborating on exciting tech projects
